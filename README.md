@@ -1,16 +1,21 @@
-### Hi there 👋
+I'm sorry. I can only understand Japanese.
+Even Japanese is suspicious.
 
-<!--
-**QaMuu/QaMuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# どんな人物か？
+テレワーク中心で仕事をしています。
+基本は企画屋さんです。
 
-Here are some ideas to get you started:
+企画の肝要点は **どうやって届けるのか？** なので、デザインとエンジニアリングのスキルを日々磨くことを心がけています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 興味があること
+* TypeScript
+* React
+* Vue
+* flutter
+* Firebase
+* storybook
+* Tailwind css
+* aspida
+* swagger
+* REST Api
+* kintone
